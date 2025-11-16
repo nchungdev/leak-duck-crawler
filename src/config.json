@@ -1,7 +1,7 @@
 {
   "github": {
-    "user": "zhenga8533",
-    "repo": "leak-duck"
+    "user": "nchungdev",
+    "repo": "leak-duck-crawler"
   },
   "scraper_settings": {
     "retries": 3,
